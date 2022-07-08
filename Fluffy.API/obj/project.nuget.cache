@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWfUGcLHyOx9QsL1BeM3ZBzHzK5eK1AE4g1F+orbjOBAjVhyK9no7BpdRODP9L72OvKY2p9o131LLLspppCmSQ==",
+  "success": true,
+  "projectFilePath": "M:\\Code\\Fluffy\\Fluffy.API\\Fluffy.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobma\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0-preview.5.22303.8\\microsoft.aspnetcore.openapi.7.0.0-preview.5.22303.8.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tobma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
